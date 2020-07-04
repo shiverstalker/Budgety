@@ -161,8 +161,7 @@ var UIController = (function () {
             // Insert the HTML into the DOM
             document.querySelector(element).insertAdjacentHTML('beforeend', newHtml);
 
-
-
+            let zmel = "Mehdi";
         },
 
 
